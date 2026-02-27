@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "Lesson 2",
+  "base_artist": "Epik High",
+  "createdAt": "2026-02-27T06:01:14.961712Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "A Lesson In Leavin'",
+      "artist": "Dottie West",
+      "has_synced": false,
+      "path": "select/01_A_Lesson_In_Leavin'_Dottie_West.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Lesson In Leavin'",
+      "artist": "Jo Dee Messina",
+      "has_synced": true,
+      "path": "select/02_Lesson_In_Leavin'_Jo_Dee_Messina.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Teach U a Lesson",
+      "artist": "Robin Thicke",
+      "has_synced": true,
+      "path": "select/03_Teach_U_a_Lesson_Robin_Thicke.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Lesson Learn'd (feat. Inspectah Deck and Redman)",
+      "artist": "Wu-Tang Clan feat. Inspectah Deck & Redman",
+      "has_synced": true,
+      "path": "select/04_Lesson_Learn'd_(feat._Inspectah_Deck_and_Redman)_Wu-Tang_Clan_feat._Inspectah_Deck_&_Redman.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Lesson Learn'd (feat. Inspectah Deck and Redman)",
+      "artist": "Wu-Tang Clan",
+      "has_synced": true,
+      "path": "select/05_Lesson_Learn'd_(feat._Inspectah_Deck_and_Redman)_Wu-Tang_Clan.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Hearts Filthy Lesson",
+      "artist": "David Bowie",
+      "has_synced": false,
+      "path": "select/06_Hearts_Filthy_Lesson_David_Bowie.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "The Heart's Filthy Lesson",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/07_The_Heart's_Filthy_Lesson_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "The Hearts Filthy Lesson",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/08_The_Hearts_Filthy_Lesson_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "The Heart's Filthy Lesson - Filthy Mix",
+      "artist": "David Bowie",
+      "has_synced": false,
+      "path": "select/09_The_Heart's_Filthy_Lesson_-_Filthy_Mix_David_Bowie.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "The Hearts Filthy Lesson (Filthy Mix)",
+      "artist": "David Bowie",
+      "has_synced": false,
+      "path": "select/10_The_Hearts_Filthy_Lesson_(Filthy_Mix)_David_Bowie.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "The Heart's Filthy Lesson - Good Karma Mix by Tim Simenon",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/11_The_Heart's_Filthy_Lesson_-_Good_Karma_Mix_by_Tim_Simenon_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "The Hearts Filthy Lesson (Good Karma Mix by Tim Simenon)",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/12_The_Hearts_Filthy_Lesson_(Good_Karma_Mix_by_Tim_Simenon)_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "The Heart's Filthy Lesson - Rubber Mix",
+      "artist": "David Bowie",
+      "has_synced": false,
+      "path": "select/13_The_Heart's_Filthy_Lesson_-_Rubber_Mix_David_Bowie.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "The Hearts Filthy Lesson (Rubber Mix)",
+      "artist": "David Bowie",
+      "has_synced": false,
+      "path": "select/14_The_Hearts_Filthy_Lesson_(Rubber_Mix)_David_Bowie.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "The Hearts Filthy Lesson - Simple Text Mix",
+      "artist": "David Bowie",
+      "has_synced": false,
+      "path": "select/15_The_Hearts_Filthy_Lesson_-_Simple_Text_Mix_David_Bowie.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "The Hearts Filthy Lesson (Simple Text Mix)",
+      "artist": "David Bowie",
+      "has_synced": false,
+      "path": "select/16_The_Hearts_Filthy_Lesson_(Simple_Text_Mix)_David_Bowie.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "The Heart's Filthy Lesson - Trent Reznor Alternative Mix",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/17_The_Heart's_Filthy_Lesson_-_Trent_Reznor_Alternative_Mix_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "The Hearts Filthy Lesson (Trent Reznor Alternative Mix)",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/18_The_Hearts_Filthy_Lesson_(Trent_Reznor_Alternative_Mix)_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "The Lesson, Pt. 1",
+      "artist": "The Roots",
+      "has_synced": true,
+      "path": "select/19_The_Lesson,_Pt._1_The_Roots.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Lesson One (Tablo's Word)",
+      "artist": "에픽하이",
+      "has_synced": false,
+      "path": "select/pl_01_Lesson_One_(Tablo's_Word)_에픽하이.txt"
+    }
+  ]
+}
